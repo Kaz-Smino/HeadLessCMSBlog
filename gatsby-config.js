@@ -15,7 +15,7 @@ module.exports = {
       summary: `software engineer`,
     },
     description: `engineering blog`,
-    siteUrl: ``,
+    siteUrl: `https://github.com/Kaz-Smino`,
     social: {
       twitter: ``,
     },
